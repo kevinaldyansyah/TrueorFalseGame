@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">True or False Game</string>
+    <string name="my_laptop_name">Rog</string>
+    <string name="correct_text">Correct!</string>
+    <string name="incorrect_text">InCorrect!</string>
+    <string name="first_score_text">Correct!</string>
+    <string name="correct_toast_message">Correct!</string>
+    <string name="incorrect_toast_message">InCorrect!</string>
+    <string name="q1">Tanggal 15 Agustus 2020, Barcelona di bantai Bayern Munchen dengan skor 8-2</string>
+    <string name="q2">Messi pemain negara Mozambique</string>
+    <string name="q3">Hasil skor MU vs Totthenham Hotspur tanggal 4 Oktober 2020 adalah 1-6</string>
+    <string name="q4">Aston Villa membantai Liverpool dengan skor 7-2 tanggal 5 Oktober 2020</string>
+    <string name="q5">Ronaldinho pemain negara Brazil</string>
+    <string name="q6">Edwin Van der Sar mantan kiper MU</string>
+    <string name="q7">Ricardo Kaka hengkang dari AC Milan ke Real Madrid pada tahun 2009</string>
+    <string name="q8">Liga Indonesia bersih dari Suap</string>
+    <string name="q9">Supporter Liga Indon terlalu Norak</string>
+    <string name="q10">Jumlah pemain pada setiap tim sepak bola maksimal terdiri dari sebelas orang </string>
+
+
+</resources>
